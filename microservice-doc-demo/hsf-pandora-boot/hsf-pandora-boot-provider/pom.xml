@@ -23,11 +23,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-        <dependency>
-            <groupId>com.taobao.pandora</groupId>
-            <artifactId>taobao-hsf.sar</artifactId>
-        </dependency>
-
         <!-- for unit test-->
         <dependency>
             <groupId>com.taobao.pandora</groupId>
@@ -86,6 +81,4 @@
             </plugin>
         </plugins>
     </build>
-
-
 </project>

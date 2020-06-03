@@ -2,6 +2,7 @@ package com.alibaba.edas;
 
 import com.alibaba.boot.hsf.annotation.HSFConsumer;
 
+import com.alibaba.edas.api.HelloService;
 import com.taobao.hsf.remoting.service.GenericService;
 import com.taobao.pandora.boot.test.junit4.DelegateTo;
 import com.taobao.pandora.boot.test.junit4.PandoraBootRunner;
