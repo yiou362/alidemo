@@ -1,4 +1,4 @@
-package com.alibaba.edas;
+package com.alibaba.edas.api;
 
 
 public interface HelloService {
